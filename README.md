@@ -1,19 +1,27 @@
-### Hi there 👋
+# Olá, me chamo Lene Ribeiro
 
+## Bem vindo ao meu perfil GitHub 👋
 <!--
-**Lene-cristina-Ribeiro/Lene-cristina-Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lene-cristina-Ribeiro/Lene-cristina-Ribeiro**
+>
 
 
 
-
-- 🌱 Estou atualmente aprendendo JavaScript
+- 🌱 Estou atualmente aprendendo MySQL
 - 👯 Integração com API
-- 🤔 I’m looking for help with ...
 - 💬 Pergunte-me sobre..
 - 📫 Email para contato lenecristina369@gmail.com e numero de contato (98) 9 8531-1399
-- ⚡ Curiosidades:
+- ⚡ Curiosidades: estou sempre em buscar de conhecimentos, gosto de desafios.
 - 🎷 Amo instrumentos musicais, o meu preferido é o saxofone,
 - 👩‍🎓 Estudo Engenharia de Software 
 - 👩‍🎓 Atualmente  Estudos na Cubos Academy
 - 👩‍💻 Sou Apaixonada por programação
-- 😉 Tenho conhecimento em HTML e CSS,  a cada dia busco ampliar mais o meu conhecimento.
+- 😉 Tenho conhecimento em HTML e CSS,  JavScript, React, NodeJs e aprendendo MySQL e a cada dia busco ampliar mais o meu conhecimento.
+
+## Feramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
