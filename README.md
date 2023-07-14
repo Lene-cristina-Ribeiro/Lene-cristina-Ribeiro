@@ -1,4 +1,4 @@
-# Olá, me chamo Lene Ribeiro
+# Olá, me chamo Lene Ribeiro.
 
 ## Bem vindo ao meu perfil GitHub 👋
 
