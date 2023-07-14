@@ -4,9 +4,8 @@
 
 ##🌱 Estou atualmente aprendendo MySQL
 ## 👯 Integração com API
-## 💬 Pergunte-me sobre..
 ## 📫 Email para contato lenecristina369@gmail.com e numero de contato (98) 9 8531-1399
-## ⚡ Curiosidades: estou sempre em buscar de conhecimentos, gosto de desafios.
+## ⚡ Curiosidades: amo o silencio e gosto de aventuras.
 ## 🎷 Amo instrumentos musicais, o meu preferido é o saxofone,
 ## 👩‍🎓 Estudo Engenharia de Software 
 ## 👩‍🎓 Atualmente  Estudos na Cubos Academy
@@ -19,5 +18,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='40' heigth='40'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='40' heigth='40'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='40' heigth='40'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='40' heigth='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='40' heigth='40' />
       
